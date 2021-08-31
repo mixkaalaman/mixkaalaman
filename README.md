@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-​<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
    <head> <meta property="fb:pages" content="108733204586763" />
 <body>
