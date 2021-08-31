@@ -6,7 +6,7 @@
 
 <!DOCTYPE html>
 <html>
-   <head> <meta property="fb:pages" content="108733204586763" />
+   <head> <meta property="fb:pages" content="108733204586763" /></head>
 <body>
 <h1>Hello FACEBOOK Mix Kaalaman</h1>
 <p></p>
